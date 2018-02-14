@@ -1,2 +1,4 @@
 # jenkins-java-project
-Java Project for Jenkins Tests
+To build:
+   ant -f build.xml -v
+   java -jar dist/rectangle.jar 4 5
